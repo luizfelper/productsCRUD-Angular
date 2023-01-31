@@ -1,5 +1,5 @@
 # Do que se trata a aplicação?
-Aplicação de cadastro de produtos feito com Angular no frontend e json-server no frontend.
+Aplicação de cadastro de produtos feito com Angular no frontend e json-server no backend.
 
 
 ## Subindo aplicação local
